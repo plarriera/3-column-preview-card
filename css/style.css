@@ -29,7 +29,11 @@ main {
 }
 
 section {
-    padding: 3rem;
+    padding: 3.5rem;
+}
+
+p {
+    margin-bottom: 2rem;
 }
 
 h2 {
@@ -53,21 +57,35 @@ h2 {
 
 button {
     background-color: var(--gray);
-    color: none;
     border: 2px solid var(--gray);
     font-family: 'Lexend Deca', Arial, Helvetica, sans-serif;
     padding: 0.75rem 2rem;
     border-radius: 2rem;
 }
 
+
 #sedans button{
     color: var(--orange);
+}
+#sedans button:hover{
+    background-color: var(--orange);
 }
 
 #suvs button {
     color: var(--cyan);
 }
+#suvs button:hover {
+    background-color: var(--cyan);
+}
 
 #luxury button {
     color: var(--darkcyan);
+}
+#luxury button:hover {
+    background-color: var(--darkcyan);
+}
+
+button:hover {
+    color: var(--gray) !important;
+    cursor: pointer;
 }
