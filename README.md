@@ -26,7 +26,7 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 ### 📚 What I learned
 
-This was a quick challenge I took to grow more confident using CSS Flexbox, on top of the Git knowledge I gained during the [QR Code Component Challenge](https://github.com/plarriera/qr-code-component). For Flexbox, [FLEX](https://flexbox.malven.co/) by Malven. Co. was an extremely helpful cheatsheet that I will keep at hand for future projects. Additionally, (this answer on Stack Overflow)[https://stackoverflow.com/a/526041] helped me figure out how to position the buttons for desktop users.
+This was a quick challenge I took to grow more confident using CSS Flexbox, on top of the Git knowledge I gained during the [QR Code Component Challenge](https://github.com/plarriera/qr-code-component). For Flexbox, [FLEX](https://flexbox.malven.co/) by Malven. Co. was an extremely helpful cheatsheet that I will keep at hand for future projects. Additionally, [this answer on Stack Overflow](https://stackoverflow.com/a/526041) helped me figure out how to position the buttons for desktop users.
 
 ### 💡 Continued development
 
