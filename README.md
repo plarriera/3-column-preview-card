@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is my solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). You can check out the [solution](#) and see it live at [GitHub pages](https://plarriera.github.io/3-column-preview-card/) 💻
+This is my solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). You can check out the [solution]() and see it live at [GitHub pages](https://plarriera.github.io/3-column-preview-card/) 💻
 
 ## 📋 Table of contents
 
