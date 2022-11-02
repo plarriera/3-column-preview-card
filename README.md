@@ -13,7 +13,8 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 ## 🔍 Preview
 
-[Screenshot of the solution]
+![A desktop computer and a phone showcasing screenshots of the solution.](./3columncard-preview.jpg)
+*Mockup by [denamorado](https://www.freepik.com/free-psd/digital-devices-screen-editable_32084754.htm#query=desktop%20and%20phone%20mockup&position=4&from_view=keyword) on Freepik.*
 
 ## 🌱 My process
 
