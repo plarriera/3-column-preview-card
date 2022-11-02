@@ -22,7 +22,7 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     overflow: hidden;
     width: 90vw;
     margin: 5rem auto;
@@ -88,4 +88,25 @@ button {
 button:hover {
     color: var(--gray) !important;
     cursor: pointer;
+}
+
+@media (min-width: 700px) {
+    main {
+        flex-direction: row;
+        width: 60vw;
+    }
+
+    section {
+        position: relative;
+        padding: 2.5rem;
+    }
+
+    p {
+        margin-bottom: 7rem;
+    }
+
+    button {
+        position: absolute;
+        bottom: 2.5rem;
+    }
 }
