@@ -35,11 +35,11 @@ h2 {
     font-size: 2.5em;
 }
 
-#sedans { background-color: var(--orange); }
+.sedans { background-color: var(--orange); }
 
-#suvs { background-color: var(--cyan); }
+.suvs { background-color: var(--cyan); }
 
-#luxury { background-color: var(--darkcyan); }
+.luxury { background-color: var(--darkcyan); }
 
 button {
     background-color: var(--gray);
@@ -50,14 +50,14 @@ button {
 }
 
 
-#sedans button{ color: var(--orange); }
-#sedans button:hover{ background-color: var(--orange); }
+.sedans button{ color: var(--orange); }
+.sedans button:hover{ background-color: var(--orange); }
 
-#suvs button { color: var(--cyan); }
-#suvs button:hover { background-color: var(--cyan); }
+.suvs button { color: var(--cyan); }
+.suvs button:hover { background-color: var(--cyan); }
 
-#luxury button { color: var(--darkcyan); }
-#luxury button:hover { background-color: var(--darkcyan); }
+.luxury button { color: var(--darkcyan); }
+.luxury button:hover { background-color: var(--darkcyan); }
 
 button:hover {
     color: var(--gray) !important;
