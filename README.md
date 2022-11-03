@@ -9,6 +9,7 @@ This is my solution to the [3-column preview card component challenge on Fronten
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+- [Acknowledgements](#acknowledgements)
 - [Author](#author)
 
 ## 🔍 Preview
@@ -32,6 +33,10 @@ This was a quick challenge I took to grow more confident using CSS Flexbox, on t
 ### 💡 Continued development
 
 In future projects, I'd like to try my hand at making more complex layouts solely with Flexbox in order to test my knowledge and creative thinking.
+
+## Acknowledgements
+
+Big thanks to [@vcarames](https://www.frontendmentor.io/profile/vcarames) for their feedback!
 
  ## 👩‍💻 Author
 
